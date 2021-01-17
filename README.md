@@ -2,4 +2,4 @@
 # Language: Catalan
 # Programming Language: Java
 # Tools: notebooks
-# Contents: introductions to Streams with examples
+# Contents: Introduction to Streams with examples
