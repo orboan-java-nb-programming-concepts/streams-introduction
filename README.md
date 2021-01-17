@@ -1,4 +1,4 @@
-# Type: Concepts (With Theory)
+# Type: Concepts (With Examples)
 # Language: Catalan
 # Programming Language: Java
 # Tools: notebooks
